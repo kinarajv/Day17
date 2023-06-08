@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQSXRtLsp8dhpdAqD0ZgZxy+KV8FOPg6RzQMoht9XUldIYE2G3T2dEoc8Tk7e4lTBAsLWN0PP4F10nUhU+5Drw==",
+  "dgSpecHash": "W8L1pP4ilzgBmnMFNvuwNdMM3VZQUgmgtg+lmcB7xdcCOGI+LP32AviBM4YuFT0l1MkI/d45tbgRgELka1XJ4Q==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
+  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj",
         "projectName": "TraceListeners",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\TraceListeners.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\TraceListeners\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

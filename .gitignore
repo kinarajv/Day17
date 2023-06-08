@@ -1,0 +1,41 @@
+# Binaries
+*.exe
+*.dll
+*.pdb
+*.user
+*.ncrunch*
+*_ReSharper*
+*/*.dll
+# Builds
+bin/
+obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.vs/
+*.csproj.user
+*.vcxproj.filters
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# .NET Core dependencies
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/PublishProfiles/
+**/Properties/launchSettings.json
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Others
+packages/
+*.nupkg
+*.log
+*.sqlite
+npm-debug.log
+*.zip

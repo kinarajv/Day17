@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj",
         "projectName": "ConditionalCompilation",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\ConditionalCompilation.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConditionalCompilation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj",
         "projectName": "DocumentationXML",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\DocumentationXML.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DocumentationXML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

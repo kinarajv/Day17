@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLoLDsUAiFyLkKP5WWu48laTttB8CO1wapNVx6XrwNXCMIiA9v0wnrX5ttnN3kK8fGX9+n2ospQ0cgKWrqz3tQ==",
+  "dgSpecHash": "lpVpbtC4t0nUASLxkH74mL6zTDR/mW9lbaCz9DmrTDu6/jUM2cKLJc6VnqYCk+dvlQCioj6MOFVmywo948soZw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
+  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
