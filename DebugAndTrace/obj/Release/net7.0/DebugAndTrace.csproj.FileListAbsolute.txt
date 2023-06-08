@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Release\net7.0\DebugAndTrace.exe
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Release\net7.0\DebugAndTrace.deps.json
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Release\net7.0\DebugAndTrace.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Release\net7.0\DebugAndTrace.dll
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Release\net7.0\DebugAndTrace.pdb
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.dll
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\refint\DebugAndTrace.dll
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.pdb
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\DebugAndTrace.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Release\net7.0\ref\DebugAndTrace.dll

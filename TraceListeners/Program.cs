@@ -15,8 +15,8 @@ namespace ExampleApplication
 			
 			// Add the trace listener to the Trace object
 			Trace.Listeners.Add(traceListener);
-			Trace.Assert(true, "This is a trace false.");
-			
+			Trace.Assert(false, "This is a trace false.");
+			Debug.Assert(false, "This is a DEBUG FALSE.");
 			// Write a trace statement to output something to the file
 			Trace.WriteLine("This is a trace statement.");
 			

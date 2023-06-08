@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceListeners", "TraceList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract", "Contract\Contract.csproj", "{077A87A7-DCDC-4F18-A721-1B96EA972232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trial", "Trial\Trial.csproj", "{79D0384C-B281-4E39-BD13-97F27031C88F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{077A87A7-DCDC-4F18-A721-1B96EA972232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{077A87A7-DCDC-4F18-A721-1B96EA972232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{077A87A7-DCDC-4F18-A721-1B96EA972232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D0384C-B281-4E39-BD13-97F27031C88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D0384C-B281-4E39-BD13-97F27031C88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D0384C-B281-4E39-BD13-97F27031C88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D0384C-B281-4E39-BD13-97F27031C88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

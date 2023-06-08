@@ -6,6 +6,8 @@ static class Program
 	{
 		Debug.WriteLine("Debug says, I am watching!");
 		Trace.WriteLine("Trace says, I am watching!");
-        Console.ReadKey();
-    }
+		Debug.Assert(false, "Debug says, I am watching!");
+		Trace.Assert(false, "Trace says, I am watching!");
+		Console.ReadKey();
+	}
 }
