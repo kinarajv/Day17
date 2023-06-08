@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            double a = 4.5;
+            double a = 4.0;
             double b = 2.5;
             double answer = Add(a, b);
 
