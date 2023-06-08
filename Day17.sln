@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalCompilation", "ConditionalCompilation\ConditionalCompilation.csproj", "{70A7B490-47FC-4C6F-9B9F-2921D974D068}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_ConditionalCompilation", "A_ConditionalCompilation\A_ConditionalCompilation.csproj", "{70A7B490-47FC-4C6F-9B9F-2921D974D068}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug", "Debug\Debug.csproj", "{4F02AA69-E8DC-4368-9F1B-32AC21485320}"
 EndProject
@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceListeners", "TraceList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trial", "Trial\Trial.csproj", "{79D0384C-B281-4E39-BD13-97F27031C88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalCompilation2", "ConditionalCompilation2\ConditionalCompilation2.csproj", "{093437C2-89E8-40D0-AD3F-46DE7DD1E868}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_ConditionalCompilation3", "C_ConditionalCompilation3\C_ConditionalCompilation3.csproj", "{093437C2-89E8-40D0-AD3F-46DE7DD1E868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_ConditionalCompilation2", "B_ConditionalCompilation2\B_ConditionalCompilation2.csproj", "{E35914BA-A3C4-46CF-A4A1-155D83609109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -76,5 +78,9 @@ Global
 		{093437C2-89E8-40D0-AD3F-46DE7DD1E868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{093437C2-89E8-40D0-AD3F-46DE7DD1E868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{093437C2-89E8-40D0-AD3F-46DE7DD1E868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35914BA-A3C4-46CF-A4A1-155D83609109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35914BA-A3C4-46CF-A4A1-155D83609109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35914BA-A3C4-46CF-A4A1-155D83609109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35914BA-A3C4-46CF-A4A1-155D83609109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

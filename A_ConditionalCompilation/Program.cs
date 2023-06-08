@@ -1,4 +1,6 @@
-﻿#define WINDOWS
+﻿//For choose between different OS
+
+#define WINDOWS
 
 class Program {
 	static void Main() {
