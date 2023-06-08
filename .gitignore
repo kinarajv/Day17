@@ -13,6 +13,8 @@
 x64/
 [Bb]in/
 [Oo]bj/
+[Nn]et7.0/
+.vscode/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -44,6 +46,8 @@ x64/
 *.svclog
 *.scc
 *.cache
+*.assetes.cache
+*.editorconfig
 
 # Visual C++ cache files
 ipch/
@@ -132,3 +136,5 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+Trial/obj/Debug/net7.0/Trial.GeneratedMSBuildEditorConfig.editorconfig
+Trial/obj/Debug/net7.0/Trial.assets.cache

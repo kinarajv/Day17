@@ -2,7 +2,7 @@
 
 while (true)
 {
-	Console.WriteLine("no!");
-	Console.WriteLine("xx");
-	await Task.Delay(2000);
+	Console.WriteLine("qweqwe!");
+	Console.WriteLine("P");
+	await Task.Delay(123);
 }
