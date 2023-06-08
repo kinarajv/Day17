@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
         "projectName": "ConsoleTraceListeners",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\ConsoleTraceListeners.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\ConsoleTraceListeners\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

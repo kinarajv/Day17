@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj",
         "projectName": "DebugAndTrace2",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\DebugAndTrace2.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

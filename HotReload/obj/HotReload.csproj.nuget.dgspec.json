@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
         "projectName": "HotReload",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\HotReload.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\HotReload\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

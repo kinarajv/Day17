@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PbusT7ZYVWK9+MuYJAAuoovmqLO0op/eAYQ9HPmUKysc0t7/fwtHHBZQ43S396IOAsyBIiQTf/8kY8u50Nb50g==",
+  "dgSpecHash": "EDNpd1/lMgl0ub26HCHf651ZZWZUgRVqmkP911BgbYcpHwqhEvm6RXzt26OxltZtsXHkZn5wsNzlCBBZMIM0UQ==",
   "success": true,
-  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace\\DebugAndTrace.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 17\\DebugAndTrace\\DebugAndTrace.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
