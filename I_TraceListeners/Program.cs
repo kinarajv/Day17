@@ -7,22 +7,19 @@ namespace ExampleApplication
 	{
 		static void Main(string[] args)
 		{
-			// Clear any existing trace listeners
+			
 			Trace.Listeners.Clear();
+			using(TextWriterTraceListener traceListener = new TextWriterTraceListener("myTraceOutput.txt")) 
+			{
+				Trace.Listeners.Add(traceListener);
 			
-			// Create a new TextWriterTraceListener to write output to a file
-			TextWriterTraceListener traceListener = new TextWriterTraceListener("myTraceOutput.txt");
+				Trace.Assert(true, "This is a trace false.");
+				Debug.Assert(false, "This is a DEBUG FALSE.");
+				Trace.WriteLine("This is a trace statement.");
 			
-			// Add the trace listener to the Trace object
-			Trace.Listeners.Add(traceListener);
-			Trace.Assert(false, "This is a trace false.");
-			Debug.Assert(false, "This is a DEBUG FALSE.");
-			// Write a trace statement to output something to the file
-			Trace.WriteLine("This is a trace statement.");
-			
-			// Flush and close the trace listener to ensure all output is written to the file
-			traceListener.Flush();
-			traceListener.Close();
+				traceListener.Flush();
+				traceListener.Close();
+			}
 		}
 	}
 }

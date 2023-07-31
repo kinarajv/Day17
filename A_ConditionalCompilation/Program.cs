@@ -1,13 +1,16 @@
-﻿//For choose between different OS
+﻿//For choose between different Testing or Lib
 
-#define WINDOWS
+#define GAMERUNNER
 
 class Program {
 	static void Main() {
-		#if WINDOWS
-		Console.WriteLine("Windows.");
-		#elif LINUX
-		Console.WriteLine("Linux.");
+		#if GAMERUNNER
+		Console.WriteLine("GameRunner.");
+		//GameRunner gameRunner = new();
+		#elif GAMETESTER
+		Console.WriteLine("GameTester.");
+		//GameTester gameTest = new();
+		//methodTest(0);
 		#else
 		Console.WriteLine("Not anything.");
 		#endif

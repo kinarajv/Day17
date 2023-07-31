@@ -7,7 +7,7 @@ static class MyLib
 	/// </summary>
 	/// <param name="a">The first number to add.</param>
 	/// <param name="b">The second number to add.</param>
-	/// <returns>The sum of a and b.</returns>
+	/// <returns>The sum of a and b kayae</returns>
 	public static double Add(double a, double b)
 	{
 		return a + b;

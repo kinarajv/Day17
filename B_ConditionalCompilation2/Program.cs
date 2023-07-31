@@ -1,4 +1,4 @@
-﻿//Assign defineConstant on the .csproj inside <PropertyGroup>
+﻿//Assign <DefineConstant> on the .csproj inside <PropertyGroup>
 
 class Program {
 	static void Main() {
