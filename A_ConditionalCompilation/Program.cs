@@ -1,5 +1,5 @@
 ﻿//For choose between different Testing or Lib
-
+#define GAMETESTER
 #define GAMERUNNER
 
 class Program {
@@ -14,5 +14,6 @@ class Program {
 		#else
 		Console.WriteLine("Not anything.");
 		#endif
+		Console.WriteLine("Finish");
 	}
 }

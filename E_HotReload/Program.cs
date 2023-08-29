@@ -2,8 +2,6 @@
 
 while (true)
 {
-	Console.WriteLine("Luqman ! Adib");
-	Console.WriteLine("Marcel");
-	Console.Write("asd");
+	Console.WriteLine("TEST");
 	await Task.Delay(2000);
 }

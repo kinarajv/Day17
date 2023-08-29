@@ -6,7 +6,7 @@
     <RootNamespace>ConditionalCompilation_csproj</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <DefineConstants>WINDOWS</DefineConstants>
+    <DefineConstants>ANDROID</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Program.cs" />

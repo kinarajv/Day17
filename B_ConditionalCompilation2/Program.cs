@@ -1,11 +1,10 @@
 ﻿//Assign <DefineConstant> on the .csproj inside <PropertyGroup>
-
 class Program {
 	static void Main() {
-		#if WINDOWS
-		Console.WriteLine("WINDOWS");
-		#elif LINUX
-		Console.WriteLine("LINUX");
+		#if ANDROID
+		Console.WriteLine("ANDROID");
+		#elif APPLE
+		Console.WriteLine("APPLE");
 		#endif
 		Console.WriteLine("Program berjalan...");
 	}
