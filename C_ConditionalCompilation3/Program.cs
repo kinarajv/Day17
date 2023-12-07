@@ -1,6 +1,7 @@
 ﻿//Jika dirun pasti akan ke Debug
 //dotnet build -c PRODUCTION
 
+#define DEVELOPMENT
 class Program {
 	static void Main() {
 		#if (DEBUG)
@@ -15,6 +16,7 @@ class Program {
 		Console.WriteLine("No define found");
 		#endif
 		
+		//#warning please help
 		Console.WriteLine("Program berjalan...");
 		Console.Read();
 	}

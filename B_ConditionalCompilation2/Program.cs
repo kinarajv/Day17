@@ -1,4 +1,5 @@
 ﻿//Assign <DefineConstant> on the .csproj inside <PropertyGroup>
+
 class Program {
 	static void Main() {
 		#if ANDROID
@@ -8,4 +9,4 @@ class Program {
 		#endif
 		Console.WriteLine("Program berjalan...");
 	}
-}
+} 

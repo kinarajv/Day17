@@ -1,6 +1,5 @@
 ﻿//For choose between different Testing or Lib
-#define GAMETESTER
-#define GAMERUNNER
+#define GAMETESTERS
 
 class Program {
 	static void Main() {
