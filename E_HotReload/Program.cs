@@ -2,6 +2,6 @@
 
 while (true)
 {
-	Console.WriteLine("yanto");
-	await Task.Delay(1);
+	Console.WriteLine("123");
+	await Task.Delay(3);
 }

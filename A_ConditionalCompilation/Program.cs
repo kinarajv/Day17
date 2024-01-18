@@ -1,12 +1,17 @@
-﻿//For choose between different Testing or Lib
-#define GAMETESTERS
+﻿#define RELEASE
+#define TEST
 
 class Program {
 	static void Main() {
-		#if GAMERUNNER
+		#if YANTO 
+		Console.WriteLine("YANTO");
+		#endif
+		#if TEST
+		Console.WriteLine("TEST.");
+		#elif RELEASE 
 		Console.WriteLine("GameRunner.");
 		//GameRunner gameRunner = new();
-		#elif GAMETESTER
+		#elif (TEST || DEBUG)
 		Console.WriteLine("GameTester.");
 		//GameTester gameTest = new();
 		//methodTest(0);

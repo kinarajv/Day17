@@ -4,6 +4,7 @@
 #define DEVELOPMENT
 class Program {
 	static void Main() {
+		#region DEVELOPMENT
 		#if (DEBUG)
 		Console.WriteLine("Mode DEBUG diaktifkan.");
 		#elif (PRODUCTION)
@@ -15,9 +16,11 @@ class Program {
 		#else
 		Console.WriteLine("No define found");
 		#endif
+		#endregion
 		
-		//#warning please help
+		#region DATABASESETTINGS
 		Console.WriteLine("Program berjalan...");
 		Console.Read();
+		#endregion
 	}
 }

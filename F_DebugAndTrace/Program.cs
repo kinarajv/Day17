@@ -4,13 +4,17 @@ static class Program
 {
 	static void Main()
 	{
-		int userID = 123123;
-		string pass = "pass";
-		Debug.WriteLine(userID + "	 " + pass);
-		Trace.WriteLine("Userid and password inserted");
+		int userIDfromUser = 123123;
+		string passFromUser = "pass";
+		Debug.WriteLine(DateTime.Now + " [DEBUG] " + userIDfromUser + "	 " + passFromUser);
+
+		int RegisteredUserId = 123123;
+		string RegisteredPass = "pass123";
+		Trace.WriteLine(DateTime.Now + " [TRACE] Userid and password inserted");
 		
-		Debug.Assert(true, "DebugAssert says, I am watching!");
-		Trace.Assert(true, "TraceAssert says, I am watching!");
+		Debug.WriteLine(DateTime.Now + " [DEBUG]");
+		//Debug.Assert(passFromUser == RegisteredPass , "Password Salah!");
+		Trace.Assert(false, "TraceAssert says, I am watching!");
 		
 		Console.WriteLine("Finish");
 	}

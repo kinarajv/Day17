@@ -9,7 +9,7 @@ namespace MyNamespace
 			ConsoleTraceListener consoleTraceListener = new ConsoleTraceListener();
 			Trace.Listeners.Add(consoleTraceListener);
 
-			Trace.WriteLine("Starting program");
+			Debug.WriteLine("Starting program");
 
 			int x = 5;
 			int y = 10;
@@ -18,7 +18,7 @@ namespace MyNamespace
 
 			int sum = x + y;
 
-			Trace.WriteLine($"The sum of {x} and {y} is {sum}");
+			Debug.WriteLine($"The sum of {x} and {y} is {sum}");
 
 			Trace.WriteLine("Program complete");
 		}
